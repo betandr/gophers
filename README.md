@@ -1,5 +1,7 @@
 # Gopher Artwork by Beth Anderson
 
+I love the [Go Gopher](https://blog.golang.org/gopher) and this repository contains those that I have made with Adobe Illustrator.
+
 ## Licence 
 This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
@@ -22,7 +24,7 @@ Original Gopher artwork by [Renee French](http://reneefrench.blogspot.com/)
 
 ## Gophers
 
-|   |   |   |
+| Gopher  | Gopher Study  | Gordon the Gopher  |
 |---|---|---|
 | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gopher.png"> | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gopher_Study.png"> | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gordon-Golang.png"> |
 
