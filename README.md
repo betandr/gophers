@@ -24,7 +24,7 @@ Original Gopher artwork by [Renee French](http://reneefrench.blogspot.com/)
 
 ## Gophers
 
-| Gopher  | Gopher Study  | Gordon the Gopher  |
+| | | |
 |---|---|---|
 | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gopher.png"> | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gopher_Study.png"> | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gordon-Golang.png"> |
 
