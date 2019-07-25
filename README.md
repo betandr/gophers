@@ -24,8 +24,8 @@ Original Gopher artwork by [Renee French](http://reneefrench.blogspot.com/)
 
 ## Gophers
 
-| | | | |
-|---|---|---|---|
+| | | |
+|---|---|---|
 | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gopher.png"> | <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Gordon-Golang.png"> |  <img height="100" src="https://raw.githubusercontent.com/betandr/gophers/master/Study-Gopher.png"> |
 
 
